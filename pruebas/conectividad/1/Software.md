@@ -1,0 +1,6 @@
+# Software necesario para la prueba
+## Raspberry Pi 4
+* MotionEyeOS [youtube](https://www.youtube.com/watch?v=8YUM7jio6dk)
+* ...
+## lattepanda
+* ...
